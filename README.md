@@ -20,3 +20,10 @@ When the model is run on any given cryptocurrency, it uses cryptocompare.com's A
 # Some Results
 ![image](https://user-images.githubusercontent.com/82912016/165632032-e85e4e68-6b6c-40f6-96c2-be5e23fa3cae.png)
 ![image](https://user-images.githubusercontent.com/82912016/165632095-2597d743-5ec3-4f83-ba49-4bdae97a3b83.png)
+
+The above iteration of Bitcoin's model received an R2 score of 0.76.
+
+# Disclaimer
+This model was originally conceived through a baseline model by Abhinav Sagar. His model can be found here: https://github.com/abhinavsagar/Cryptocurrency-Price-Prediction
+
+I improved on his model's results by playing with the hyperparameters, as well as expanding the model to other cryptocurrencies and using the most current data.
